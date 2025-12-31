@@ -1,0 +1,86 @@
+[
+  {
+    "month": "Jan",
+    "revenue": 45000,
+    "unitsSold": 320,
+    "profit": 12500,
+    "category": "Electronics"
+  },
+  {
+    "month": "Feb",
+    "revenue": 52000,
+    "unitsSold": 380,
+    "profit": 15200,
+    "category": "Electronics"
+  },
+  {
+    "month": "Mar",
+    "revenue": 48000,
+    "unitsSold": 340,
+    "profit": 13800,
+    "category": "Electronics"
+  },
+  {
+    "month": "Apr",
+    "revenue": 61000,
+    "unitsSold": 445,
+    "profit": 18500,
+    "category": "Electronics"
+  },
+  {
+    "month": "May",
+    "revenue": 55000,
+    "unitsSold": 390,
+    "profit": 16200,
+    "category": "Electronics"
+  },
+  {
+    "month": "Jun",
+    "revenue": 67000,
+    "unitsSold": 485,
+    "profit": 21000,
+    "category": "Electronics"
+  },
+  {
+    "month": "Jul",
+    "revenue": 72000,
+    "unitsSold": 520,
+    "profit": 23500,
+    "category": "Electronics"
+  },
+  {
+    "month": "Aug",
+    "revenue": 68000,
+    "unitsSold": 490,
+    "profit": 21800,
+    "category": "Electronics"
+  },
+  {
+    "month": "Sep",
+    "revenue": 74000,
+    "unitsSold": 535,
+    "profit": 24200,
+    "category": "Electronics"
+  },
+  {
+    "month": "Oct",
+    "revenue": 82000,
+    "unitsSold": 590,
+    "profit": 27500,
+    "category": "Electronics"
+  },
+  {
+    "month": "Nov",
+    "revenue": 95000,
+    "unitsSold": 680,
+    "profit": 32000,
+    "category": "Electronics"
+  },
+  {
+    "month": "Dec",
+    "revenue": 110000,
+    "unitsSold": 780,
+    "profit": 38500,
+    "category": "Electronics"
+  }
+]

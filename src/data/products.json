@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones Pro",
+    "category": "Electronics",
+    "price": 149.99,
+    "stock": 245,
+    "status": "in_stock",
+    "rating": 4.7,
+    "totalSold": 1250
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch Series X",
+    "category": "Electronics",
+    "price": 299.99,
+    "stock": 82,
+    "status": "low_stock",
+    "rating": 4.5,
+    "totalSold": 890
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Keyboard RGB",
+    "category": "Accessories",
+    "price": 89.99,
+    "stock": 320,
+    "status": "in_stock",
+    "rating": 4.8,
+    "totalSold": 2100
+  },
+  {
+    "id": 4,
+    "name": "4K Monitor Ultra",
+    "category": "Electronics",
+    "price": 549.99,
+    "stock": 45,
+    "status": "low_stock",
+    "rating": 4.6,
+    "totalSold": 456
+  },
+  {
+    "id": 5,
+    "name": "Ergonomic Mouse",
+    "category": "Accessories",
+    "price": 59.99,
+    "stock": 0,
+    "status": "out_of_stock",
+    "rating": 4.4,
+    "totalSold": 1875
+  },
+  {
+    "id": 6,
+    "name": "USB-C Hub Premium",
+    "category": "Accessories",
+    "price": 79.99,
+    "stock": 158,
+    "status": "in_stock",
+    "rating": 4.3,
+    "totalSold": 920
+  },
+  {
+    "id": 7,
+    "name": "Laptop Stand Adjustable",
+    "category": "Accessories",
+    "price": 45.99,
+    "stock": 290,
+    "status": "in_stock",
+    "rating": 4.9,
+    "totalSold": 3200
+  },
+  {
+    "id": 8,
+    "name": "Bluetooth Speaker Mini",
+    "category": "Electronics",
+    "price": 39.99,
+    "stock": 412,
+    "status": "in_stock",
+    "rating": 4.2,
+    "totalSold": 5600
+  }
+]
